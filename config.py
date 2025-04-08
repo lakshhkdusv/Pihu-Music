@@ -16,29 +16,29 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","Vishnusoni14")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "riya_Xmusic_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Pihu_music_rebot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "RIYA MUSIC")
+BOT_NAME = getenv("BOT_NAME" , "PIHU MUSIC")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "itz_m3_riya")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Pihu_assistant")
 # ---------------------------------------------------------
 
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://theriyamusic94:f67KlgTyzr3TTutn@cluster0.lym5x.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGO_DB_URI = getenv("MONGO_DB_URI")
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 
 # ----------------------------------------------------------------
-DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
+DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 600))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002018556839))
+LOGGER_ID = int(getenv("LOGGER_ID", -1001801207249))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6762113050))
+OWNER_ID = int(getenv("OWNER_ID", 5923034665))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Ksdofficial8/RIYA_MUSIC",
+    "https://github.com/lakshhkdusv/Pihu-Music",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/RIYA_NETWORK")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/RIYA_CHAT_SUPPORT")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/NAINCY_UPDATES")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+o8RK-lU4i2A1OWZl")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -141,13 +141,13 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/b61227af05544deb76a34.jpg"
+    "START_IMG_URL", "https://envs.sh/cOL.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/8kifut.jpg"
+    "PING_IMG_URL", "https://envs.sh/wVb.jpg"
 )
 PLAYLIST_IMG_URL = "https://files.catbox.moe/2vq8oz.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/8kifut.jpg"
+STATS_IMG_URL = "https://envs.sh/cO3.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/2vq8oz.jpg"
 TELEGRAM_VIDEO_URL = "https://files.catbox.moe/2vq8oz.jpg"
 STREAM_IMG_URL = "https://files.catbox.moe/2vq8oz.jpg"

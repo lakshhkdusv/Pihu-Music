@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002018556839))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002472476994))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6762113050))
+OWNER_ID = int(getenv("OWNER_ID", 5923034665))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -141,13 +141,13 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/b61227af05544deb76a34.jpg"
+    "START_IMG_URL", "https://envs.sh/cOL.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/8kifut.jpg"
+    "PING_IMG_URL", "https://envs.sh/cO3.jpg"
 )
 PLAYLIST_IMG_URL = "https://files.catbox.moe/2vq8oz.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/8kifut.jpg"
+STATS_IMG_URL = "https://envs.sh/wVb.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/2vq8oz.jpg"
 TELEGRAM_VIDEO_URL = "https://files.catbox.moe/2vq8oz.jpg"
 STREAM_IMG_URL = "https://files.catbox.moe/2vq8oz.jpg"

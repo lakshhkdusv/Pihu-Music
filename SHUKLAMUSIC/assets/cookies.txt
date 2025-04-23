@@ -2,7 +2,6 @@
 # https://curl.haxx.se/rfc/cookie_spec.html
 # This is a generated file! Do not edit.
 
-# domain  include_subdomains  path  secure  expiration_date  name  value
 .youtube.com	TRUE	/	TRUE	1774522782	__Secure-1PSIDCC	AKEyXzUIoLU5QJD7LpH_ZdZn-_8YwRlIxwF1DEkk1DN3xjm-GxQIImexXjQAFXmoM3yMCEPgHA
 .youtube.com	TRUE	/	TRUE	1774522762	__Secure-3PSIDTS	sidts-CjIB7pHptRjdu5iwMMmnzuF_5ChzcNPvpcd-woPBCZxmiq6-6uzUWaNgGS9VTD3WxSXChBAA
 .youtube.com	TRUE	/	TRUE	1777546757	PREF	tz=Asia.Calcutta
